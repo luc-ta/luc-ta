@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luc-ta
-- 👀 I’m a mathematics undergraduate applying to graduate school soon!
+- 👀 I’m a mathematics undergraduate applying to graduate school soon.
 - 📫 How to reach me: luc.ta@yale.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I write chamber music! Shameless plug: https://www.youtube.com/@LucTaMusic
