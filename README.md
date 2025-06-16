@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luc-ta
-- 👀 I’m starting my PhD in mathematics at Pitt this fall.
-- 📫 How to reach me: luc.ta@yale.edu
+- 👀 I’m starting my PhD in mathematics at Pitt this fall!
+- 📫 How to reach me: ldt37@pitt.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I write chamber music! Shameless plug: https://www.youtube.com/@LucTaMusic
 
