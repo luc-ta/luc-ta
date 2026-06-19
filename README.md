@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @luc-ta
-- 👀 I’m starting my PhD in mathematics at Pitt this fall!
-- 📫 How to reach me: ldt37@pitt.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I write chamber music! Shameless plug: https://www.youtube.com/@LucTaMusic
+I’m a PhD student in mathematics at the University of Pittsburgh.
+
+Pronouns: he/him
+Contact: ldt37 (at) pitt (dot) edu
+Chamber music: https://www.youtube.com/@LucTaMusic
 
 <!---
 luc-ta/luc-ta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
