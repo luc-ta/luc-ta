@@ -1,4 +1,4 @@
-I’m a PhD student in mathematics at the University of Pittsburgh. Most of my GitHub repositories relate to finite rack and quandle theory, but my PhD focuses more in algebraic geometry and quantum algebra.
+I’m a PhD student in mathematics at the University of Pittsburgh. My PhD focuses on algebraic geometry and quantum algebra, but my GitHub repositories mostly relate to projects in finite rack and quandle theory.
 
 - Pronouns: he/him
 - Contact: ldt37 (at) pitt (dot) edu
